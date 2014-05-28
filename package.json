@@ -1,0 +1,24 @@
+{
+  "name": "host-filtering-proxy",
+  "version": "0.1.0",
+  "description": "A straightforward host filtering HTTP proxy",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "~0.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/node-host-filtering-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "http",
+    "host",
+    "filter"
+  ]
+}
